@@ -25,5 +25,5 @@ I am a young, dedicated, and hardworking person who always gives my best to reac
 
 ### Contact:
 <p align="left">
-<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/josuerivera03/)" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/public/icons/social/linked-in-alt.svg](https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1768435200&v=beta&t=VR53X4OtewhVOH20MWpX_x6g9MVwwNQOGSFtzMBWT5I)" alt="Josue Rivera" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/josuerivera03/)" target="blank"><img align="center" src="https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1768435200&v=beta&t=VR53X4OtewhVOH20MWpX_x6g9MVwwNQOGSFtzMBWT5I" alt="Josue Rivera" height="30" width="40" /></a>
 </p>
