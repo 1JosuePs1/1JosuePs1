@@ -4,6 +4,7 @@ I am a young, dedicated, and hardworking person who always gives my best to reac
 
 ### Education
 * **B.S. in Systems Engineering** - Universidad Fidélitas (Current).
+**Advanced Software Development Technician.**
 
 ### Languages and Tools
 * **Frontend:** HTML5, CSS3, JavaScript, Bootstrap, JQuery.
