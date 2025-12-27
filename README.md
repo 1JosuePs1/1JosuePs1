@@ -3,7 +3,7 @@
 I am a young, dedicated, and hardworking person who always gives my best to reach any goal. I stand out for my organizational skills, punctuality, and a positive attitude regardless of the circumstances.
 
 ### Education
-* **B.S. in Systems Engineering** - Universidad Fidélitas (Current).
+* **B.S. in Systems Software Engineering** - Universidad Fidélitas (Current).
 * **Advanced Software Development Technician.**
 
 ### Languages and Tools
