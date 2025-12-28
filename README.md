@@ -8,7 +8,7 @@ I am a young, dedicated, and hardworking person who always gives my best to reac
 
 ### Languages and Tools
 * **Frontend:** HTML5, CSS3, JavaScript, Bootstrap, JQuery.
-* **Backend:** Python, Java, PHP, SQL (MySQL).
+* **Lenguages:** Python, Java, PHP.
 * **Tools:** Git, GitHub, VS Code, NetBeans, IntelliJ.
 
 ###  About Me
